@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "console-title": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "gradient-string": "^2.0.2",
+    "helmet": "^7.0.0",
+    "https": "^1.0.0",
+    "path": "^0.12.7",
+    "rate-limiter-flexible": "^3.0.0"
+  }
+}
