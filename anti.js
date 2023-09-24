@@ -181,8 +181,6 @@ httpServer.on('error', (err) => {
   console.error('HTTP Server Error: ', err);
 });
 
-titles('VDC Guard > Firewall Anti DDoS Security > Made by Osiris');
-
 console.log(gradient.mind(`
          {+} Server is Online {+} 
 `));
